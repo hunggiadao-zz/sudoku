@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /**
  * Hung Dao
- * UT EID: HG6444
  * @author hunggiadao
  */
 
@@ -710,3 +709,4 @@ public class Sudoku {
 		// done with this empty square
 	}
 }
+
